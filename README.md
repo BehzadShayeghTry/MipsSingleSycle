@@ -9,4 +9,5 @@ Contributors :
  - Aref Afzali
 
 Test :
- for test, put test.txt in project directory and rename it as instructions.txt.
+ 
+ Tor test, put test.txt in project directory and rename it as instructions.txt.
