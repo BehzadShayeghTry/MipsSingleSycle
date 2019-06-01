@@ -10,4 +10,4 @@ Contributors :
 
 Test :
  
- Tor test, put test.txt in project directory and rename it as instructions.txt.
+ To test, put test.txt in project directory and rename it as instructions.txt.
