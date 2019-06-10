@@ -3,11 +3,11 @@ Computer Architecture - UT CE - Spring 2019
 
 make simple single sycle mips architecture as a general propose CPU.
 
-Contributors :
+### Contributors :
 
  - Behzad Shayegh
- - Aref Afzali
+ - Aref Afzali [[+](https://github.com/arefafzali)]
 
-Test :
+### Test :
  
  To test, put test.txt in project directory and rename it as instructions.txt.
